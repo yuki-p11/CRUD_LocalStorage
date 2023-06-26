@@ -1,0 +1,46 @@
+body {
+    background-image: url("rainbow.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+   }
+   
+.t{
+    padding: 20px;
+    color: rgb(100, 100, 100);
+
+}
+
+.text-dark-grey {
+    color: rgb(93, 93, 93);
+  }
+
+.container {
+    margin-top: 50px;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.modal-dialog {
+    max-width: 500px;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.navbar {
+    
+    background-color: #cccccc;    
+    opacity:0.9 ;
+  }
+
+
+  
